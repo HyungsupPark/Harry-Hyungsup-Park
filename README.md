@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Visit my website at (https://hyungsuppark.github.io/)
+Visit my website [here](https://hyungsuppark.github.io/)
 
 You can use the [editor on GitHub](https://github.com/HyungsupPark/hyungsuppark.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
