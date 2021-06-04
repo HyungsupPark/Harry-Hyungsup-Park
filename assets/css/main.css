@@ -2830,7 +2830,7 @@ input, select, textarea {
 	}
 
 		.main.style1 {
-			background: #edece8; /* mc change main background */
+			background: #ffffff; /* mc change main background */
 		}
 
 		.main.style2 {
@@ -2925,7 +2925,7 @@ input, select, textarea {
 
 	#header {
 		padding: 9em 0 9em 0 ;
-		background-color: #080808; /* mc change background color */
+		background-color: #1f497d; /* mc change background color */
 		color: rgba(255, 255, 255, 0.75);
 		/* mc remove background gradient */
 		/*background-attachment: fixed,							fixed,							fixed;
@@ -3128,7 +3128,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 6em 0 6em 0 ;
-		background-color: #080808; /* mc change background */
+		background-color: #1f497d; /* mc change background */
 		color: rgba(255, 255, 255, 0.75) !important; /* mc changed to important */
 		/* mc remove footer image
 		background-attachment: fixed,							fixed,							fixed;
